@@ -129,7 +129,7 @@ A secure system must balance all three:
 
 ---
 
-## 🧠 My Insight
+## 🧠 Key Insight
 
 In real-world systems, failures often occur when one of these three is ignored.
 
